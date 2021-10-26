@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <!-- Header  -->
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:background="#0EAD69" >
+
+        <ImageView
+            android:id="@+id/imgbtnback"
+            android:layout_width="40dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            app:srcCompat="@drawable/icbtnback"
+            tools:ignore="VectorDrawableCompat" />
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_marginTop="5dp"
+            android:textSize="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="  Add / List Data  "
+            android:textColor="#FFFFFF"
+            app:fontFamily="@font/regular"
+            tools:ignore="MissingConstraints" />
+
+
+    </RelativeLayout>
+
+    <!-- Footer  -->
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FFFFFF"  >
+    </RelativeLayout>
+
+    <!-- Content -->
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/footer"
+        android:layout_below="@id/header"  >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:id="@+id/btn1"
+                android:layout_marginTop="20dp"
+                android:textSize="35dp"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:gravity="center"
+                android:text="  Add  "
+                android:textColor="#000000"
+                android:background="#00CF76"
+                android:textStyle="bold"
+                app:fontFamily="@font/regular"
+                tools:ignore="MissingConstraints" />
+
+
+            <TextView
+                android:id="@+id/btn2"
+                android:layout_marginTop="20dp"
+                android:textSize="35dp"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_below="@+id/btn1"
+                android:gravity="center"
+                android:text="  List Data  "
+                android:textColor="#000000"
+                android:background="#EACB00"
+                android:textStyle="bold"
+                app:fontFamily="@font/regular"
+                tools:ignore="MissingConstraints" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

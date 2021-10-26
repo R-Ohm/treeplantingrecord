@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#098952">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp">
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="250dp"
+            android:layout_height="120dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            app:srcCompat="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/text0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView2"
+            android:gravity="center"
+            android:text="  Application  "
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="5dp"
+            android:textSize="35dp"
+            android:typeface="normal"
+            app:fontFamily="@font/regular"
+            tools:ignore="MissingConstraints" />
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text0"
+            android:gravity="center"
+            android:text=" tree planting record "
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="5dp"
+            android:textSize="35dp"
+            android:typeface="normal"
+            app:fontFamily="@font/regular"
+            tools:ignore="MissingConstraints" />
+
+
+
+        <TextView
+            android:id="@+id/tel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text1"
+            android:layout_alignLeft="@+id/data1"
+            android:layout_marginTop="10dp"
+            android:text=" Email "
+            android:textColor="#FFFFFF"
+            android:textSize="28dp"
+            app:fontFamily="@font/regular" />
+
+        <EditText
+            android:id="@+id/data1"
+            android:layout_width="310dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/tel"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:ems="10"
+            android:hint="   "
+            android:inputType="textEmailAddress"
+            android:background="@drawable/edit_text"
+            android:textColorHint="#000000"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            app:fontFamily="@font/regular" />
+
+        <TextView
+            android:id="@+id/pass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/data1"
+            android:layout_alignLeft="@+id/tel"
+            android:layout_marginTop="10dp"
+            android:text=" Password  "
+            android:textColor="#FFFFFF"
+            android:textSize="28dp"
+            app:fontFamily="@font/regular" />
+
+        <EditText
+            android:id="@+id/data2"
+            android:layout_width="310dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/pass"
+            android:layout_marginTop="5dp"
+            android:layout_alignLeft="@id/data1"
+            android:gravity="center"
+            android:ems="10"
+            android:hint="    "
+            android:textSize="25dp"
+            android:background="@drawable/edit_text"
+            android:textColorHint="#000000"
+            android:textColor="#000000"
+            android:inputType="textPassword"
+            app:fontFamily="@font/regular"  />
+
+        <TextView
+            android:id="@+id/pass2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/data2"
+            android:layout_alignLeft="@+id/tel"
+            android:layout_marginTop="10dp"
+            android:text=" Re - Password   "
+            android:textColor="#FFFFFF"
+            android:textSize="28dp"
+            app:fontFamily="@font/regular" />
+
+        <EditText
+            android:id="@+id/data3"
+            android:layout_width="310dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/pass2"
+            android:layout_marginTop="5dp"
+            android:layout_alignLeft="@id/data1"
+            android:gravity="center"
+            android:ems="10"
+            android:hint="    "
+            android:textSize="25dp"
+            android:background="@drawable/edit_text"
+            android:textColorHint="#000000"
+            android:textColor="#000000"
+            android:inputType="textPassword"
+            app:fontFamily="@font/regular"  />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="120dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/data3"
+            android:layout_marginTop="30dp"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:text=" Register "
+            android:textColor="#000000"
+            android:background="@drawable/button_circle"
+            android:textSize="25dp"
+            app:fontFamily="@font/regular" />
+
+        <TextView
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="30dp"
+            android:text=" Have an account ? Login "
+            android:textColor="#FFFFFF"
+            android:textSize="28dp"
+            app:fontFamily="@font/regular" />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
