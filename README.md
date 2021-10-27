@@ -27,7 +27,9 @@ us to get into the actual app.
 [carbcoll20-10-64.pdf](https://github.com/R-Ohm/treeplantingrecord/files/7423127/carbcoll20-10-64.pdf)
 
 
-## Check user register
+## Code
+
+### Check user register
 ```java
 public String[] Checkusername(String tID) {
         try {
