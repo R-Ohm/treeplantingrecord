@@ -84,7 +84,8 @@ public long InsertData(String data1, String data2, String data3){
     }
 ``` 
 
-Validations for username, password, etc:
+## Pictures
+- Login and Register page
 
 | Login | Responsive Web |
 | :---: | :---: | 
