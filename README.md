@@ -100,3 +100,12 @@ public long InsertData(String data1, String data2, String data3){
 | <img src="https://user-images.githubusercontent.com/88524223/139002845-cf056d82-4043-422c-ad5b-572b1619f085.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139002874-d6c22a6e-b72c-47b2-a0a3-559ee5da2dae.jpg" width="400">
 
 
+- Add and Add/List data
+
+| Homepage | Home page after adding |
+| :---: | :---: | 
+| <img src="https://user-images.githubusercontent.com/88524223/139003542-890af34c-7176-48d5-a661-3e2dd591f1c1.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139003596-f4a3d93a-588a-45bf-b583-0bff0ea05a17.jpg" width="400">
+
+
+
+
