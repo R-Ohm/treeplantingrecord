@@ -92,6 +92,7 @@ public long InsertData(String data1, String data2, String data3){
 | <img src="https://user-images.githubusercontent.com/88524223/139000566-0af0ee56-d88a-4e84-83fd-67d6a9263f97.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139000607-1cae1bd5-e563-4a58-98b1-d7a567d4bc0c.jpg" width="400">
 
 - Homepage and Add/List data
+
 | Homepage | Add/List Data |
 | :---: | :---: | 
 | <img src="https://user-images.githubusercontent.com/88524223/139002845-cf056d82-4043-422c-ad5b-572b1619f085.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139002874-d6c22a6e-b72c-47b2-a0a3-559ee5da2dae.jpg" width="400">
