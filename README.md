@@ -13,6 +13,10 @@ planting record. The primary purpose of this project is to enable people who fac
 trees to remember their things because the country where I live is very close to the farming 
 profession because Thailand is a country in the tropics, which is suitable for growing very much.
 
+## draft
+[carbcoll20-10-64.pdf](https://github.com/R-Ohm/treeplantingrecord/files/7423127/carbcoll20-10-64.pdf)
+
+
 ### Check user register
 ```java
 public String[] Checkusername(String tID) {
