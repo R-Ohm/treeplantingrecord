@@ -72,7 +72,7 @@ public long InsertData(String data1, String data2, String data3){
 
 Validations for username, password, etc:
 
-| Homepage | Responsive Web |
+| Login | Responsive Web |
 | :---: | :---: | 
 | <img src="https://user-images.githubusercontent.com/88524223/138989854-e71eb770-a17b-4b18-8c22-725723220def.jpg" width="400"> | <img src="Screenshots/responsive.gif" width = "400">
 
