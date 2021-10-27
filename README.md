@@ -72,4 +72,5 @@ public long InsertData(String data1, String data2, String data3){
 
 Validations for username, password, etc:
 
-![Validation image](Screenshot_20211027-085135_tree planting record)
+![Screenshot_20211027-085135_tree planting record](https://user-images.githubusercontent.com/88524223/138989167-8b9d37be-1f6c-4d64-8cc6-5eeb51fd247d.jpg)
+
