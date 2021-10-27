@@ -72,4 +72,4 @@ public long InsertData(String data1, String data2, String data3){
 
 Validations for username, password, etc:
 
-![This is an image](![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Validation image](Screenshot_20211027-085135_tree planting record)
