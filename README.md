@@ -74,5 +74,5 @@ Validations for username, password, etc:
 
 | Login | Responsive Web |
 | :---: | :---: | 
-| <img src="https://user-images.githubusercontent.com/88524223/138989854-e71eb770-a17b-4b18-8c22-725723220def.jpg" width="400"> | <img src="Screenshots/responsive.gif" width = "400">
+| <img src="https://user-images.githubusercontent.com/88524223/138989854-e71eb770-a17b-4b18-8c22-725723220def.jpg" width="400"> | <img src="Screenshots/responsive.gif" width = "300">
 
