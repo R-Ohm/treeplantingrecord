@@ -111,4 +111,16 @@ public long InsertData(String data1, String data2, String data3){
 | :---: | :---: | 
 | <img src="https://user-images.githubusercontent.com/88524223/139003875-c1af4495-c239-42f8-a193-8f71263e4166.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139003922-4addca00-87b5-42a2-86f8-97a7d1e3ecd3.jpg" width="400">
 
+## Demonstration on youtube
+For the CS50 final project you have to make a video showning your project,
+[My Final Project presentation](https://www.youtube.com/watch?v=xxVD9cRVDnY&t=14s)
 
+## About CS50
+CS50 is a openware course from Havard University and taught by David J. Malan
+
+Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development).
+
+Thank you for all CS50.
+
+- Where I get CS50 course?
+https://cs50.harvard.edu/x/2020/
