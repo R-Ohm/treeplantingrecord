@@ -74,4 +74,6 @@ Validations for username, password, etc:
 
 | Homepage | Responsive Web |
 | :---: | :---: | 
-| <img src="![Screenshot_20211027-085135_tree planting record](https://user-images.githubusercontent.com/88524223/138989711-829b2bb7-e8e4-4847-ad1a-fabcb833bad1.jpg)" width="400"> | <img src="Screenshots/responsive.gif" width = "400">
+| <img src="https://user-images.githubusercontent.com/88524223/138989854-e71eb770-a17b-4b18-8c22-725723220def.jpg" width="400"> | <img src="Screenshots/responsive.gif" width = "400">
+
+![Screenshot_20211027-085135_tree planting record](https://user-images.githubusercontent.com/88524223/138989854-e71eb770-a17b-4b18-8c22-725723220def.jpg)
