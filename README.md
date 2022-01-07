@@ -3,7 +3,7 @@
 ## cs50
 >This was my final project for conclude the CS50 Introduction to Computer Sciense course.
 
->CS, java, application, CS50
+>java, application, CS50
 
 ## Explaining the project 
 Hello my name is Ittipaht Kijpaisansak. I'm from Bangkok, Thailand. And this is my Havard cs50 
