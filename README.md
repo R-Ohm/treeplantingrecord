@@ -6,7 +6,7 @@
 >java, application, CS50
 
 ## Explaining the project 
-Hello my name is Ittipaht Kijpaisansak. I'm from Bangkok, Thailand. And this is my Havard cs50 
+Hello my name is Ittipaht Kijpaisansak. I'm from Bangkok, Thailand. And this is my Harvard cs50 
 final project. I got my inspiration from seeing my dad planting around our house every day. This 
 is not my dad, but it gives the same meaning. So, I decided to create a mobile app called tree 
 planting record. The primary purpose of this project is to enable people who facilitate planting 
