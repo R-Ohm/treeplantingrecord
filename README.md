@@ -112,7 +112,7 @@ public long InsertData(String data1, String data2, String data3){
 | <img src="https://user-images.githubusercontent.com/88524223/139003875-c1af4495-c239-42f8-a193-8f71263e4166.jpg" width="400"> | <img src="https://user-images.githubusercontent.com/88524223/139003922-4addca00-87b5-42a2-86f8-97a7d1e3ecd3.jpg" width="400">
 
 ## Demonstration on youtube
-For the CS50 final project you have to make a video showning your project,
+For the CS50 final project I have to make a video showing my project,
 [My Final Project presentation](https://www.youtube.com/watch?v=xxVD9cRVDnY&t=14s)
 
 ## About CS50
