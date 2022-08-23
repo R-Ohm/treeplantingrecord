@@ -1,7 +1,7 @@
 # tree planting record
 
 ## cs50
->This was my final project for conclude the CS50 Introduction to Computer Sciense course.
+>This was my final project for conclude the CS50 Introduction to Computer Science course.
 
 >java, application, CS50
 
